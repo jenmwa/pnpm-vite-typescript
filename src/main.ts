@@ -40,7 +40,9 @@ if (app) {
       Click on the Vite and TypeScript logos to learn more
     </p>
   </div>
+  <h2>Nice job!</h2>
 `;
+
 }
 
 setupCounter(document.querySelector<HTMLButtonElement>('#counter')!);
